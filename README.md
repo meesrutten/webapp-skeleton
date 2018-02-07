@@ -3,10 +3,10 @@
 First, check out Parcel Bundler:
 [Parcel Bundler](https://github.com/parcel-bundler/parcel)
 
-##Get started
+## Get started
 ---
 
-###Install with yarn:
+### Install with yarn:
 ```
 yarn global add parcel-bundler
 ```
@@ -16,7 +16,7 @@ npm install -g parcel-bundler
 ```
 
 
-###To start this project:
+### To start this project:
 ```
 yarn
 ```
