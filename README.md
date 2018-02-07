@@ -4,13 +4,12 @@ First, check out Parcel Bundler:
 [Parcel Bundler](https://github.com/parcel-bundler/parcel)
 
 ## Get started
----
 
 ### Install with yarn:
 ```
 yarn global add parcel-bundler
 ```
-or with npm:
+### or install with npm:
 ```
 npm install -g parcel-bundler
 ```
