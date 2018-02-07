@@ -1,4 +1,6 @@
-console.log('test');
+console.log('bundle.js - test');
+
+import router from './router.js'
 
 // // Import a module using CommonJS syntax
 // const dep = require('./path/to/dep');
