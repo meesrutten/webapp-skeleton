@@ -33,3 +33,5 @@ parcel index.html
 Then navigate to localhost:1234/
 
 If needed, you can also override the default port with the -p option. Add --open to automatically open a browser.
+
+Skeleton by Mees Rutten
